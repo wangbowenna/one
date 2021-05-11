@@ -1,1 +1,4 @@
 # one
+public one（）｛
+
+｝
